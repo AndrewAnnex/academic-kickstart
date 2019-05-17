@@ -1,13 +1,13 @@
 # Theme metadata
-name = "Mars"
+name = "mars"
 
 # Is theme light or dark?
 light = false
 
 # Primary
-primary = "hsl(28, 38%, 68%)"
-primary_light = "hsl(28, 38%, 78%)"
-primary_dark = "hsl(28, 38%, 58%)"
+primary = "hsl(27, 48%, 68%)"
+primary_light = "hsl(27, 48%, 78%)"
+primary_dark = "hsl(27, 48%, 58%)"
 
 # Menu
 #menu_primary = "rgb(20, 22, 34)"
