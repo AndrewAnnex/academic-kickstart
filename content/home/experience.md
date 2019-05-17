@@ -18,27 +18,40 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Ph.D. Student"
+  company = "Johns Hopkins University"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Baltimore Maryland"
+  date_start = "2016-09-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Planetary Science Ph.D. studying sedimentary deposits on Mars using high resolution remote sensing and topography data.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Software Engineer"
+  company = "CCRi"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Virginia"
+  date_start = "2014-06-01"
+  date_end = "2016-08-31"
+  description = """Software Developer on GeoMesa"""
+
+[[experience]]
+  title = "Intern on Cassini CIRS"
+  company = "NASA Goddard Space Flight Center"
+  location = "Maryland"
+  date_start = "2013-06-01"
+  date_end   = "2013-08-01"
+  description = """
+  Produced coverage reports and Maps of Titan by the CIRS instrument for end of mission science planning.
+  """
+[[experience]]
+  title = "Undergraduate"
+  company = "The University of Virginia"
+  location = "Charlottesville Virginia"
+  date_start = "2010-08-25"
+  date_end   = "2014-05-25"
+  description = """Environmental Science B.Sc."""
 
 +++
