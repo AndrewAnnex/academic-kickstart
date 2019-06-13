@@ -5,3 +5,4 @@
 	path = public
 	url = git@github.com:AndrewAnnex/andrewannex.github.io.git
 	branch = master
+	ignore = dirty
