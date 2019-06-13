@@ -17,10 +17,22 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Researcher"
+  company = "NASA Frontier Development Lab"
+  company_url = "https://frontierdevelopmentlab.org/"
+  location = "Mountain View California"
+  date_start = "2019-06-24"
+  date_end   = "2019-08-16"
+  description = """
+  Disaster Prevention, Progress and Response (Floods), AI and domain science. Summer internship.
+  """ 
+
 [[experience]]
   title = "Ph.D. Student"
   company = "Johns Hopkins University"
-  company_url = ""
+  company_url = "https://eps.jhu.edu/"
   location = "Baltimore Maryland"
   date_start = "2016-09-01"
   date_end = ""
@@ -38,13 +50,13 @@ date_format = "Jan 2006"
   description = """Software Developer on GeoMesa"""
 
 [[experience]]
-  title = "Intern on Cassini CIRS"
+  title = "NASA Summer Intern"
   company = "NASA Goddard Space Flight Center"
   location = "Maryland"
   date_start = "2013-06-01"
   date_end   = "2013-08-01"
   description = """
-  Produced coverage reports and Maps of Titan by the CIRS instrument for end of mission science planning.
+  Produced coverage reports and Maps of Titan by the Cassini CIRS instrument for end of mission science planning.
   """
 [[experience]]
   title = "Undergraduate"

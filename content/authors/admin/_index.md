@@ -21,6 +21,7 @@ organizations:
 bio: My research interests include the applications of deep learning to planetary geology.
 
 interests:
+- Software Development 
 - Remote Sensing
 - Deep Learning
 - Geochemistry
